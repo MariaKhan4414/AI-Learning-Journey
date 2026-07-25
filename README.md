@@ -44,6 +44,13 @@ This project predicts passenger survival on the Titanic dataset using multiple s
 - XGBoost
 - Google Colab
 
+ ## Dataset
+
+This project uses the Titanic dataset from the Kaggle Titanic Machine Learning Competition.
+
+Dataset Link:
+https://www.kaggle.com/competitions/titanic/data
+
 ## 📌 Future Projects
 
 - Artificial Neural Networks (ANN)
